@@ -2,7 +2,7 @@ package pages;
 
 import base.BaseTest;
 public class NSLoginPage extends BaseTest{
-	
+	//username
 	public static void eneterUserName(String userName)
 	{
 		enterText(findElementByID("username"), userName);
