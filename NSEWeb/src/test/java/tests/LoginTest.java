@@ -15,6 +15,6 @@ public class LoginTest {
 		NSLoginPage.eneterUserName("TOSCA_DBA");
 		NSLoginPage.eneterPassword("111111111");
 		NSLoginPage.clickSignInButton();
-		//new chnage 
+		//verify
 	}
 }
