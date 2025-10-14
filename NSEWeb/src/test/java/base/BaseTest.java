@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class BaseTest {
 	
 	public static WebDriver driver;
-	
+	//Launch browser
 	public static void launchBrowser()
 	{
 		driver = new ChromeDriver();
